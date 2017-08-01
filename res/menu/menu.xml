@@ -1,0 +1,12 @@
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Transactions"
+        android:id="@+id/transactions"
+        android:visible="true" />
+    <item android:title="Contact Us"
+        android:id="@+id/contact_us"
+        android:visible="true" />
+</menu>
